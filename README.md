@@ -4,10 +4,21 @@
 
 I have knowledge of video editing, graphic design and have already done many projects related to this field. I know HTML5, CSS3 and I'm  learning more and more about frontend development. I want to be a professional web developer.
 
-Skills: HTML / CSS / Photoshop / Premier Pro / Excel / PowerPoint
+Skills:
+       ✔ HTML5
+       ✔ CSS3
+       ✔ Photoshop
+       ✔ Premier Pro
+       ✔ Excel
+       ✔ PowerPoint
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Web Design 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anik6984tl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anik6984tl/)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anik6984tl&show_icons=true)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anik6984tl)  
+
+![Profile views](https://gpvc.arturio.dev/anik6984tl)  
